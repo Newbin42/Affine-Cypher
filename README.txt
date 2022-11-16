@@ -1,0 +1,1 @@
+Take existing files and encrypt them, while also allowing for decryption using the Affine Cypher.
